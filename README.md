@@ -1,20 +1,20 @@
-JavaScript - Exercícios - Módulo 01
+- JavaScript - Exercícios - Módulo 01
 
 Este repositório contém uma série de exercícios em JavaScript para iniciantes, com foco em lógica de programação. Os exercícios abordam as operações fundamentais, estruturas de controle condicional e de repetição, além de manipulação básica de dados. Cada exercício inclui explicações detalhadas para facilitar o entendimento.
 
-Pré-requisitos
+- Pré-requisitos
 
 Para executar os exercícios localmente, você precisará de:
 
-Node.js (para executar o código JavaScript no terminal)
+* Node.js (para executar o código JavaScript no terminal)
 
-Prompt-sync (para capturar a entrada do usuário via terminal)
+* Prompt-sync (para capturar a entrada do usuário via terminal)
 
 Para instalar o prompt-sync, execute o seguinte comando no terminal:
 
-npm install prompt-sync
+* npm install prompt-sync
 
-Estrutura do Repositório
+- Estrutura do Repositório
 
 📁 maispratiecodifica
 ├── 📁 Modulo_01            # Códigos dos exercícios
@@ -39,25 +39,25 @@ Estrutura do Repositório
 ├── package.json
 └── package-lock.json
 
-Como Executar os Exercícios
+- Como Executar os Exercícios
 
-Clone este repositório para o seu computador.
+1. Clone este repositório para o seu computador.
 
-git clone <URL-do-repositório>
+* git clone <URL-do-repositório>
 
-Instale as dependências necessárias (prompt-sync).
+2. Instale as dependências necessárias (prompt-sync).
 
-npm install
+* npm install
 
-Navegue até o diretório Modulo_01 para acessar os exercícios.
+3. Navegue até o diretório Modulo_01 para acessar os exercícios.
 
-cd Modulo_01
+* cd Modulo_01
 
-Execute o exercício desejado.
+4. Execute o exercício desejado.
 
-node exercicio01.js
+* node exercicio01.js
 
-Lista de Exercícios
+- Lista de Exercícios
 
 1. Verificação de Números Inteiros - Recebe um número e verifica se é inteiro, par ou ímpar.
 
@@ -91,30 +91,30 @@ Lista de Exercícios
 
 
 
-Estruturas Utilizadas
+- Estruturas Utilizadas
 
-Operações Fundamentais: Soma, Subtração, Multiplicação, Divisão e Módulo.
+* Operações Fundamentais: Soma, Subtração, Multiplicação, Divisão e Módulo.
 
-Conversão de Dados: Number()
+* Conversão de Dados: Number()
 
-Estruturas de Controle:
+* Estruturas de Controle:
 
-Condicional: if, else if, else, switch
+    - Condicional: if, else if, else, switch
 
-Repetição: for, while
+    - Repetição: for, while
 
-Funções de Saída e Entrada: console.log(), prompt()
-
-
+* Funções de Saída e Entrada: console.log(), prompt()
 
 
-Contribuições
+
+
+- Contribuições
 
 Sinta-se à vontade para contribuir com melhorias, sugestões de novos exercícios ou otimizações no código. Toda colaboração é bem-vinda!
 
 
 
-Licença
+- Licença
 
 Este repositório é distribuído sob a licença MIT.
 
