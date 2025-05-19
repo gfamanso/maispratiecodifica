@@ -89,6 +89,8 @@ Lista de Exercícios
 
 15. Sequência de Fibonacci - Gera e imprime os primeiros 10 números da sequência de Fibonacci.
 
+
+
 Estruturas Utilizadas
 
 Operações Fundamentais: Soma, Subtração, Multiplicação, Divisão e Módulo.
@@ -103,9 +105,14 @@ Repetição: for, while
 
 Funções de Saída e Entrada: console.log(), prompt()
 
+
+
+
 Contribuições
 
 Sinta-se à vontade para contribuir com melhorias, sugestões de novos exercícios ou otimizações no código. Toda colaboração é bem-vinda!
+
+
 
 Licença
 
