@@ -1,0 +1,1 @@
+// importar a biblioteca prompt-sync para capturar a entrada do usuário no terminal do Node.js
