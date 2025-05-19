@@ -99,7 +99,7 @@ Para instalar o prompt-sync, execute o seguinte comando no terminal:
 
 * Estruturas de Controle:
 
-    - Condicional: if, else if, else, switch
+    - Condicional: if, else if, else
 
     - Repetição: for, while
 
